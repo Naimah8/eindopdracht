@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+nav {
+    text-align: center;
+    background-color: #761d21;
+    color: #ffffff;
+    overflow: hidden;
+    padding: 5px;
+    border: 2px solid #e9e3d3
+
+}
+
+nav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+body {
+    background-color: #e9e3d3;
+    font-family: "Open Sans", sans-serif;
+}
+.hero {
+    background-color: #cfc7b0;
+    border: 4px solid #006674;
+    padding: 1px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 500;
+    margin-right: 500;
+    text-align: center;
+    color: #000000;
+    font-size: 20px;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+
+}
+.image1{
+    max-width: 100%;
+    max-height: 100%;
+    margin-right: 20%;
+    
+
+}
+
+.title1{
+    background-color: #1e668adc;
+    padding: 6px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    font-size: 200%;
+    
+}
+
+.text{
+    background-color: #1e668a00;
+    padding: 3px;
+    font-size: 20px;
+    font-size: larger;
+    background-color: #cfc7b0;
+    font-size: 150%;
+
+}
+.onder{
+    background-color: #0066749a;
+    border: 5px solid black;
+    max-width: 30%;
+}
+
+.afleveringen{
+    background-color: #6e8865;
+    width: 100%;
+    
+}
+
+/*gnjrnjngj* 
